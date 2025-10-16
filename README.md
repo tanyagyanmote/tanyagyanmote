@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ```python
 const tanyaGyanmote = {
-  pronouns: "she" | "her",
   education: "B.S. Computer Science, UC Santa Cruz 🎓",
   interests: ["frontend dev", "real estate tech", "AI/ML", "design"],
   tools: ["React", "TypeScript", "Python", "Streamlit", "AWS"],
