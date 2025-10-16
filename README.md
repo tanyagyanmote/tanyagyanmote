@@ -52,5 +52,5 @@ B.S. in Computer Science — UC Santa Cruz (Graduated June 2025)
 React · TypeScript · Python · Streamlit · AWS (S3, EC2, RDS, IAM, VPC)  
 SQL · Git/GitHub · Power BI · LaTeX · HTML/CSS/JS
 
-#### 🎯 Currently learning AWS Cloud ☁️ and sharpening system design + algorithms 📚
+#### 🎯 Currently learning AWS Cloud ☁️
 
