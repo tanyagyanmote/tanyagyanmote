@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 ```python
 const tanyaGyanmote = {
-  education: "B.S. Computer Science, UC Santa Cruz 🎓",
+  education: "B.S. Computer Science, UC Santa Cruz ",
   interests: ["frontend dev", "real estate tech", "AI/ML", "design"],
-  tools: ["React", "TypeScript", "Python", "Streamlit", "AWS"],
 }
 ```
 
@@ -51,5 +50,5 @@ B.S. in Computer Science — UC Santa Cruz (Graduated June 2025)
 React · TypeScript · Python · Streamlit · AWS (S3, EC2, RDS, IAM, VPC)  
 SQL · Git/GitHub · Power BI · LaTeX · HTML/CSS/JS
 
-#### 🎯 Currently learning AWS Cloud ☁️
+#### 🎯 Currently learning AWS Cloud
 
