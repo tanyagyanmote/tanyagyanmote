@@ -47,7 +47,7 @@ B.S. in Computer Science — UC Santa Cruz (Graduated June 2025)
   → Produced UML + technical documentation for teammates
 
 ## 🛠 Tech Stack  
-React · TypeScript · Python · Streamlit · AWS (S3, EC2, RDS, IAM, VPC)  
+React · TypeScript · Python · Streamlit · AWS
 SQL · Git/GitHub · Power BI · LaTeX · HTML/CSS/JS
 
 #### 🎯 Currently learning AWS Cloud
